@@ -55,7 +55,7 @@ const html = `
   <body>
     <section>
       Hello from Render!
-      by GONZALES Lenny
+      by GONZALES Lenny :)
     </section>
   </body>
 </html>
